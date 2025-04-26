@@ -1,68 +1,47 @@
-<!-- Profile Header (Typing Effect) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C5FF&center=true&vCenter=true&width=700&lines=Crafting+AI+and+Voice+Agents+%F0%9F%94%96;Transforming+Ideas+into+Conversational+Experiences+%F0%9F%8C%9F;Empowering+Digital+Automation+with+AI+Tools+%E2%9A%A1;Bridging+Voice+%2B+AI+Technologies+Seamlessly+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- Typing Banner -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C5FF&center=true&vCenter=true&width=700&lines=Building+AI+Voice+Agents+%F0%9F%94%96;Shaping+Conversational+AI+Experiences+%F0%9F%8C%9F;Empowering+Automation+Through+Code+%E2%9A%A1;Merging+Voice+%2B+AI+Technologies+for+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://i.postimg.cc/wM7NphqR/remap-banner.png" alt="remap.ai banner" width="100%" height="auto" />
-</p>
-
-<!-- Introduction Section -->
+<!-- Header -->
+<h1 align="center">
+Hi 👋, I'm Syed Muhammad Maaz
+</h1>
 <h3 align="center">
-  <samp>&gt; Hello World!, I'm
-    <b><a target="_blank" href="https://remap.ai/">Syed Muhammad Maaz</a></b> 👋
-  </samp>
+Full Stack Developer @ <a href="https://remap.ai/" target="_blank">remap.ai</a> 🚀 | Crafting AI Agents & Voice Tech
 </h3>
 
-<p align="center">
-  <samp>
-    A Full-Stack Developer 🚀 at <b>remap.ai</b>, building AI Agents, Voice Assistants, and next-gen digital solutions.
-    <br>
-    「 Turning Concepts into Production-ready AI Experiences 」
-    <br><br>
-  </samp>
-</p>
+---
+
+## 🧠 About Me
+- 🎯 Specializing in **AI Agent Creation**, **Voice Agents**, and **Fullstack Automation**.
+- 🎤 Expert in **Postman**, **API Integrations**, and **ElevenLabs** Voice Tech.
+- 💡 Passionate about real-world **AI deployments** and **automation frameworks**.
+- 📈 Focused on **building production-grade AI assistants**, from idea to execution.
+- 🌍 Always improving — learning new stacks, scaling new systems.
 
 ---
 
-# 🧠 About Me
+## 🚀 My Core Expertise
 
-- 🎯 Full Stack Developer specializing in **AI Agents** and **Voice Automation**.
-- 🎤 Designing Smart **Voice Agents** that sound human, powered by **ElevenLabs**.
-- ⚙️ Building robust APIs, workflows, and real-world automation tools with **Postman**.
-- 🔥 Passionate about **end-to-end agent creation** — from backend logic to AI interactions.
-- 🌐 Advocating for clean code, strong architectures, and smart integrations.
+### AI & Agent Development
+- 🛠️ Conversational AI Design (OpenAI, ElevenLabs)
+- 🛠️ Voice Agents: Building lifelike, responsive voice bots
+- 🛠️ Postman Workflows for API Automation
+- 🛠️ AI-powered Data Extraction & Workflow Automation
 
----
+### Full Stack Engineering
+- 🖥️ Node.js | Express.js | MongoDB | PostgreSQL
+- 🖥️ React.js | Next.js | TailwindCSS
+- 🖥️ Webhook Handling | REST APIs | Function Calling (AI)
 
-# 🚀 Core Expertise
-
-### 🛠️ Agent & AI Development
-- 🧩 Conversational AI Design
-- 🧩 OpenAI / ElevenLabs Integrations
-- 🧩 Real-time Voice Agent Deployment
-- 🧩 AI Tool Chaining (Function Calling)
-
-### 🖥️ Full Stack Engineering
-- ⚡ Node.js / Express.js / MongoDB
-- ⚡ React.js / Next.js / Tailwind CSS
-- ⚡ RESTful APIs / Webhooks / Cron Jobs
-- ⚡ PostgreSQL / Sequelize ORM
-
-### 🧪 API Integration and Testing
-- 📩 Postman Collections & Automation
-- 📩 API-first System Designs
-- 📩 Workflow Testing and Debugging
-
-### 🧩 Voice and Speech Tech
-- 🎙️ ElevenLabs TTS & Voice Cloning
-- 🎙️ Voice Flow Architectures
-- 🎙️ Smart Callback Systems
+### Voice and Speech Technologies
+- 🎙️ ElevenLabs TTS / Voice Cloning
+- 🎙️ Voice Agents for Outbound & Inbound Calls
+- 🎙️ API-first Voice Integrations (Twilio, Bland AI)
 
 ---
 
-# 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-<!-- Skills Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -77,16 +56,16 @@
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 ---
 
-# 🐍 GitHub Activity Snake
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
@@ -94,7 +73,7 @@
 
 ---
 
-# 📣 Connect with Me
+## 📣 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zeeshanmukhtar" target="_blank">
@@ -107,7 +86,7 @@
 
 ---
 
-<!-- Footer Banner -->
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
