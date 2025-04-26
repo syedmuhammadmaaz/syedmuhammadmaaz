@@ -1,5 +1,5 @@
 <!-- Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C5FF&center=true&vCenter=true&width=700&lines=Building+AI+Voice+Agents+%F0%9F%94%96;Shaping+Conversational+AI+Experiences+%F0%9F%8C%9F;Empowering+Automation+Through+Code+%E2%9A%A1;Merging+Voice+%2B+AI+Technologies+for+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C5FF&center=true&vCenter=true&width=1000&lines=Building+AI+Voice+Agents+%F0%9F%94%96;Shaping+Conversational+AI+Experiences+%F0%9F%8C%9F;Empowering+Automation+Through+Code+%E2%9A%A1;Merging+Voice+%2B+AI+Technologies+for+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Header -->
 <h1 align="center">
