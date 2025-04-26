@@ -9,7 +9,7 @@
 <!-- Introduction Section -->
 <h3 align="center">
   <samp>&gt; Hello World!, I'm
-    <b><a target="_blank" href="https://remap.ai/">Zeeshan Mukhtar</a></b> 👋
+    <b><a target="_blank" href="https://remap.ai/">Syed Muhammad Maaz</a></b> 👋
   </samp>
 </h3>
 
