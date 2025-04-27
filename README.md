@@ -68,7 +68,7 @@ Full Stack Developer @ <a href="https://remap.ai/" target="_blank">remap.ai</a> 
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/syedmuhammadmaaz/syedmuhammadmaaz/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
 
 ---
