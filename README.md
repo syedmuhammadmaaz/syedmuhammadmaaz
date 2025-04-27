@@ -1,5 +1,5 @@
 <!-- Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C5FF&center=true&vCenter=true&width=1000&lines=Building+AI+Voice+Agents+%F0%9F%94%96;Shaping+Conversational+AI+Experiences+%F0%9F%8C%9F;Empowering+Automation+Through+Code+%E2%9A%A1;Merging+Voice+%2B+AI+Technologies+for+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=Building+AI+Voice+Agents+%F0%9F%94%96;Shaping+Conversational+AI+Experiences+%F0%9F%8C%9F;Empowering+Automation+Through+Code+%E2%9A%A1;Merging+Voice+%2B+AI+Technologies+for+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Header -->
 <h1 align="center">
@@ -43,13 +43,13 @@ Full Stack Developer @ <a href="https://remap.ai/" target="_blank">remap.ai</a> 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/ElevenLabs-FF9900?style=for-the-badge&logo=elevenlabs&logoColor=white"/>
 </p>
@@ -59,8 +59,8 @@ Full Stack Developer @ <a href="https://remap.ai/" target="_blank">remap.ai</a> 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=syedmuhammadmaaz&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuhammadmaaz&theme=github_dark&hide_border=true" width="48%"/>
 </div>
 
 ---
@@ -76,10 +76,10 @@ Full Stack Developer @ <a href="https://remap.ai/" target="_blank">remap.ai</a> 
 ## 📣 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zeeshanmukhtar" target="_blank">
+  <a href="https://www.linkedin.com/in/syed-maaz-saeed-908718204/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@remap.ai" target="_blank">
+  <a href="mailto:maaz@remap.ai" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
