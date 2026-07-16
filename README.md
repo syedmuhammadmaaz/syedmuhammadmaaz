@@ -16,7 +16,7 @@ Full Stack Developer @ <a href="https://remap.ai/" target="_blank">remap.ai</a> 
 - 🎤 Expert in **Postman**, **API Integrations**, and **ElevenLabs** Voice Tech.
 - 💡 Passionate about real-world **AI deployments** and **automation frameworks**.
 - 📈 Focused on **building production-grade AI assistants**, from idea to execution.
-- 🌍 Always improving — learning new stacks, scaling new systems.
+- 🌍 Always improving learning new stacks, scaling new systems.
 
 ---
 
