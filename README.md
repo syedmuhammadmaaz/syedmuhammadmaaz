@@ -56,14 +56,6 @@ Full Stack Developer @ <a href="https://remap.ai/" target="_blank">remap.ai</a> 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedmuhammadmaaz&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuhammadmaaz&theme=github_dark&hide_border=true" width="48%"/>
-</div>
-
----
 
 ## 🐍 GitHub Contribution Snake
 
